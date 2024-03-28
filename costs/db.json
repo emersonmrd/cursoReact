@@ -1,39 +1,6 @@
 {
   "projects": [
     {
-      "id": "86bd",
-      "name": "teste",
-      "budget": "1234",
-      "category": {
-        "id": "2",
-        "name": "Desenvolvimento"
-      },
-      "cost": 0,
-      "services": []
-    },
-    {
-      "id": "1032",
-      "name": "asas",
-      "budget": "5000",
-      "category": {
-        "id": "2",
-        "name": "Desenvolvimento"
-      },
-      "cost": 0,
-      "services": []
-    },
-    {
-      "id": "46ab",
-      "name": "teste 150",
-      "budget": "15000",
-      "category": {
-        "id": "3",
-        "name": "Design"
-      },
-      "cost": 0,
-      "services": []
-    },
-    {
       "id": "b286",
       "name": "teste 151",
       "budget": "15000",
