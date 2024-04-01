@@ -37,21 +37,8 @@
         "id": "2",
         "name": "Desenvolvimento"
       },
-      "cost": 600,
-      "services": [
-        {
-          "name": "Teste",
-          "cost": "150",
-          "description": "serviço para teste",
-          "id": "d89976de-47f4-43d0-9d6b-84de98107662"
-        },
-        {
-          "name": "Teste2",
-          "cost": "450",
-          "description": "serviço para teste2",
-          "id": "b62233d1-c508-4729-a975-7b4696d74539"
-        }
-      ]
+      "cost": 0,
+      "services": []
     }
   ],
   "categories": [
